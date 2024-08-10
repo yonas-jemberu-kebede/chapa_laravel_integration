@@ -62,7 +62,7 @@ Email,first_name, and last_name should be exactly similar within our Chapa accou
  $data = [
  
  'amount' => 100,
- 'email' => 'jemberuyonas01@gmail.com',
+ 'email' => 'jemberuyonas045@gmail.com',
  'tx_ref' => $reference,
  'currency' => "ETB",
  'callback_url' => route('callback',[$reference]),
